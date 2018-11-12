@@ -1,4 +1,6 @@
 # Mp3-2-FLV
-A GUI that uses FFMPEG to create FLV files
+A quick GUI written in C# that uses FFMPEG to create FLV files.
+
+
 
 
